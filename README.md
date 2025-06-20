@@ -126,6 +126,9 @@ might help:
 *   If it is still undetected, remove all plug-ins from all folders and copy
     WebPShop in only one of these folders, in case there is a plug-in conflict.
     Restart the computer and/or Photoshop.
+*   Photoshop Elements 2025 still does not have native webp support, but this plug-in works.  The plug-in can be copied to Windows path:
+
+        C:\Program Files\Adobe\Photoshop Elements 202X\Plug-Ins
 
 If the issue still occurs, check https://github.com/webmproject/WebPShop/issues
 to see if it is already mentioned or open a new bug report otherwise.
